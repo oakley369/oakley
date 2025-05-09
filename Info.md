@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oakley369
-- 👀 I’m a full time retard
+- 👀 I'm a beginner developer, i know assembly css and html.
 
 <!---
 swaeleef/swaeleef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
